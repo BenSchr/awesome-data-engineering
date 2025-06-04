@@ -1,0 +1,76 @@
+# Changelog
+
+## 2025-06
+- [DataHub Project](https://github.com/datahub-project/datahub): Metadata platform for the modern data stack.
+- [GitLab Enterprise Data Handbook](https://handbook.gitlab.com/handbook/enterprise-data/): GitLab's official handbook for enterprise data management and governance.
+- [DataContract CLI](https://github.com/datacontract/datacontract-cli): CLI tool for managing data contracts in data engineering workflows.
+- [DuckLake](https://github.com/duckdb/ducklake): Lakehouse implementation for DuckDB.
+- [Apache DataFusion Comet](https://github.com/apache/datafusion-comet): Query acceleration for Apache DataFusion.
+- [Apache Polaris](https://github.com/apache/polaris): Distributed SQL query engine for big data analytics.
+- [UnityCatalog](https://github.com/unitycatalog/unitycatalog): Open-source implementation of Unity Catalog for data governance.
+- [DBSQL SME Resources](https://github.com/CodyAustinDavis/dbsql_sme/tree/main): Resources and tools for Databricks SQL subject matter experts.
+- [Koheesio](https://github.com/Nike-Inc/koheesio): Orchestration framework for building data pipelines.
+- [Lakehouse Engine](https://github.com/adidas/lakehouse-engine): Lakehouse engine for scalable analytics by Adidas.
+- [Diátaxis](https://diataxis.fr/): Framework for organizing technical documentation by user needs.
+- [dbt-checkpoint](https://github.com/dbt-checkpoint/dbt-checkpoint): Linting and checks for dbt projects.
+- [dbt-coves](https://github.com/datacoves/dbt-coves): Workflow automation for dbt projects.
+- [Building Medallion Architectures](https://www.oreilly.com/library/view/building-medallion-architectures/9781098178826/): Comprehensive guide to building medallion data architectures.
+- [Designing Data-Intensive Applications](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781098119058/): In-depth exploration of data systems, scalability, and reliability.
+- [Deciphering Data Architectures](https://www.oreilly.com/library/view/deciphering-data-architectures/9781098150754/): Explains modern data architecture patterns and best practices.
+- [Fundamentals of Data](https://www.oreilly.com/library/view/fundamentals-of-data/9781098108298/): Essential concepts and principles for working with data.
+- [The Pragmatic Programmer](https://www.oreilly.com/library/view/the-pragmatic-programmer/9780135956977/): Classic book on software engineering best practices.
+- [Pytest Basics](https://github.com/The-Compiler/pytest-basics): Examples and explanations for getting started with pytest.
+- [Inspect Docker Images](https://github.com/pythonmonty/inspect-docker-images): Tool for inspecting Docker images for vulnerabilities and metadata.
+- [Test Desiderata](https://testdesiderata.com/): Philosophical and practical guidance for software testing.
+- [Practical Test Pyramid](https://martinfowler.com/articles/practical-test-pyramid.html): Martin Fowler's article on the test pyramid and testing strategies.
+- [VSCode dbt Power User](https://github.com/AltimateAI/vscode-dbt-power-user/blob/master/package.json): VSCode extension for enhanced dbt development.
+- [Inline Snapshot](https://github.com/15r10nk/inline-snapshot): Tool for inline snapshot testing in Python.
+- [Copier](https://github.com/copier-org/copier): Project templating tool for generating and maintaining codebases.
+- [Commitizen CLI](https://github.com/commitizen/cz-cli): Tool for creating conventional commit messages and automating releases.
+- [VSCode with Podman Desktop](https://podman-desktop.io/blog/2025/05/05/vs-code-with-podman-desktop): Guide to integrating VSCode with Podman Desktop for container development.
+- [Retrying dbt Runs in Databricks Workflows](https://community.databricks.com/t5/technical-blog/retrying-dbt-runs-in-databricks-workflows/ba-p/65766): Databricks blog post on strategies for retrying dbt runs in workflows.
+- [astronomer/astronomer-cosmos](https://github.com/astronomer/astronomer-cosmos): Tools and integrations for running dbt projects in Apache Airflow.
+- [dbt-labs/dbt-core](https://github.com/dbt-labs/dbt-core): Core dbt framework for analytics engineering.
+- [duckdb/dbt-duckdb](https://github.com/duckdb/dbt-duckdb): dbt adapter for DuckDB, enabling analytics engineering workflows on DuckDB databases.
+- [The Staff Engineers Path](https://www.oreilly.com/library/view/the-staff-engineers/9781098118723/): Book on the role, responsibilities, and career path of staff engineers in modern software organizations.
+- [Generative AI for Beginners](https://github.com/microsoft/generative-ai-for-beginners): Introductory resources and tutorials for understanding and using generative AI technologies.
+- [SDV: Synthetic Data Vault](https://github.com/sdv-dev/SDV): Framework for generating synthetic data.
+- [MarkItDown](https://github.com/microsoft/markitdown): Tool for creating and editing Markdown documents with enhanced features.
+- [Presidio](https://github.com/microsoft/presidio): Anonymization and pseudonymization tool for sensitive data.
+- [Graphiti](https://github.com/getzep/graphiti): Tool for creating and managing GraphQL APIs.
+- [Modern Data Engineering Playbook](https://www.thoughtworks.com/insights/e-books/modern-data-engineering-playbook): Comprehensive guide on modern data engineering practices and principles.
+- [Looking Glass 2025](https://www.thoughtworks.com/en-de/insights/looking-glass): ThoughtWorks' predictions and insights on technology and business trends for 2025.
+- [GitHub Copilot Vibe Coding Workshop](https://github.com/microsoft/github-copilot-vibe-coding-workshop/tree/main): Workshop materials and resources for the GitHub Copilot Vibe Coding session.
+- [Dropped](https://github.com/pierceboggan/Dropped): Tool for managing and visualizing dropped database columns.
+- to 🧠 Prompt Engineering & Memory Bank:
+  - [Cline Memory Bank Documentation](https://docs.cline.bot/prompting/cline-memory-bank#where-are-the-memory-bank-files-stored%3F): Official documentation on where and how memory bank files are stored and managed in Cline.
+  - [OpenAI Cookbook: GPT-4 Prompting Guide](https://cookbook.openai.com/examples/gpt4-1_prompting_guide): Practical guide and examples for effective prompting with GPT-4, from the OpenAI Cookbook.
+- [dlthub](https://github.com/dlt-hub/dlt): Framework for building and deploying data pipelines.
+- [The Hitchhiker's Guide to dbt](https://github.com/jeremyyeo/the-hitchhikers-guide-to-dbt): Comprehensive guide to dbt (data build tool) usage and best practices.
+- [Building Medallion Architectures Book](https://github.com/pietheinstrengholt/building-medallion-architectures-book): Repository for the book on building medallion architectures with data lakes and warehouses.
+- [MotherDuck Blog](https://motherduck.com/blog/): Blog featuring articles and tutorials on data engineering and analytics.
+- [Databricks Playground](https://github.com/alexott/databricks-playground): Repository containing Databricks notebooks and resources for learning and experimentation.
+- [Terraform Databricks SRA](https://github.com/databricks/terraform-databricks-sra): Terraform module for deploying Databricks SQL Analytics workspace.
+- [databricks/cli](https://github.com/databricks/cli): Official Databricks CLI for automation and scripting.
+- [databricks/databricks-vscode](https://github.com/databricks/databricks-vscode): Visual Studio Code extension for Databricks development.
+- [databricks/dbt-databricks](https://github.com/databricks/dbt-databricks): dbt adapter for Databricks, enabling analytics engineering workflows on Databricks.
+- [databrickslabs/discoverx](https://github.com/databrickslabs/discoverx): Data discovery and cataloging tool for Databricks.
+- [databrickslabs/dqx](https://github.com/databrickslabs/dqx): Data quality framework for Databricks and Spark.
+- [databricks/terraform-provider-databricks](https://github.com/databricks/terraform-provider-databricks): Terraform provider for Databricks infrastructure automation.
+- [Databricks AI - Medium](https://medium.com/@AI-on-Databricks): Medium publication for AI topics on Databricks.
+- [Databricks Blog](https://www.databricks.com): Official Databricks company blog.
+- [Databricks Community Blog](https://community.databricks.com/t5/technical-blog/bg-p/technical-blog): Technical articles and updates from the Databricks community.
+- [Databricks DBSQL SME - Medium](https://medium.com/dbsql-sme-engineering): Medium publication for Databricks SQL SME engineering topics.
+- [Databricks Platform SME - Medium](https://medium.com/databricks-platform-sme): Medium publication for Databricks Platform subject matter experts.
+- [Databricks SQL SME on Medium](https://medium.com/@databricks_sql_sme): Medium publication for Databricks SQL SME.
+- [Databricks UC SME - Medium](https://medium.com/databricks-unity-catalog-sme): Medium publication focused on Databricks Unity Catalog subject matter expertise.
+- [Confessions of a Data Guy](https://www.confessionsofadataguy.com/): Blog on real-world data engineering.
+- [Data Engineering Blog (Simon Spaethi)](https://www.ssp.sh/): Technical blog by Simon Spaethi.
+- [Data Engineering Weekly](https://www.dataengineeringweekly.com): Weekly blog on data engineering trends and best practices.
+- [DLT Hub Blog](https://dlthub.com/blog): Blog for DLT Hub, covering data loading and transformation topics.
+- [DuckDB Blog](https://duckdb.org/): Official blog for DuckDB, an in-process SQL OLAP database management system.
+- [dbt Developer Hub Blog](https://docs.getdbt.com/blog): Blog for dbt (data build tool) developers, featuring updates, tutorials, and best practices.
+- [Marvelous MLOps - Medium](https://medium.com/marvelous-mlops): Medium publication focused on MLOps topics and best practices.
+- [The GitHub Blog](https://github.blog/): Official GitHub company blog.
+- [Thoughtworks Insights](https://www.thoughtworks.com/insights): Thoughtworks' insights and technology trends blog.
+- [Visual Studio Code Blog](https://code.visualstudio.com/): Official blog for Visual Studio Code, code editing, and development tips.
