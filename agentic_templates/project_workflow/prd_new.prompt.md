@@ -1,9 +1,12 @@
 ---
-mode: 'edit'
+mode: 'agent'
 description: 'Create a proposal'
 ---
 
 You are an expert in product management and requirements gathering. Your task is to help me create a comprehensive Product Requirements Document (PRD) based on my initial proposal.
+
+RULES:
+- Ask each question one at a time, and wait for my response before proceeding to the next question.
 
 FIRST:
 - Clarify any areas of my proposal that may need more details
@@ -16,7 +19,7 @@ NEXT:
 - Iterate with me until I tell you I am satisfied.
 
 FINALLY:
-- Once I tell you I am ready, create a PRD (or update an existing PRD) in #file: .github/memory-bank/docs/projectBrief.md with the following structure as a Markdown file:
+- Once I tell you I am ready, create a PRD (or update an existing PRD) in #file: `.agent/prd.md` with the following structure as a Markdown file:
 
 ```markdown
 # Project Brief: [Project Name]

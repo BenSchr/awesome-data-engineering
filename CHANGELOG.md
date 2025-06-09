@@ -74,3 +74,5 @@
 - [The GitHub Blog](https://github.blog/): Official GitHub company blog.
 - [Thoughtworks Insights](https://www.thoughtworks.com/insights): Thoughtworks' insights and technology trends blog.
 - [Visual Studio Code Blog](https://code.visualstudio.com/): Official blog for Visual Studio Code, code editing, and development tips.
+- [Overclocking dbt: Discord's Custom Solution in Processing Petabytes of Data](https://discord.com/blog/overclocking-dbt-discords-custom-solution-in-processing-petabytes-of-data): Deep dive into Discord's custom engineering for scaling dbt to petabyte-scale data, including multi-developer workflows, performance, and CI/CD guardrails.
+- [FinOps Toolkit](https://github.com/microsoft/finops-toolkit): Microsoft open-source toolkit for automating and extending FinOps capabilities in the Microsoft Cloud, with starter kits, automation scripts, and best practices.

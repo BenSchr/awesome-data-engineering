@@ -22,6 +22,7 @@ A highly curated list of useful resources, repositories, blogs, and books for da
 - [📊 Reports](#-reports)
 - [🧪 Testing](#-testing)
 - [💡 Useful Code Snippets](#-useful-code-snippets)
+- [💸 FinOps & Cost Management](#-finops--cost-management)
 
 ## 🤖 Agentic Coding
 Agentic coding patterns, tools, and resources for building AI-driven and autonomous systems.
@@ -61,6 +62,7 @@ Blogs and publications covering data engineering, analytics, and technology tren
 - [The GitHub Blog](https://github.blog/) - Official GitHub company blog.
 - [Thoughtworks Insights](https://www.thoughtworks.com/insights) - Thoughtworks' insights and technology trends blog.
 - [Visual Studio Code Blog](https://code.visualstudio.com/) - Official blog for Visual Studio Code, code editing, and development tips.
+- [Overclocking dbt: Discord's Custom Solution in Processing Petabytes of Data](https://discord.com/blog/overclocking-dbt-discords-custom-solution-in-processing-petabytes-of-data) - Deep dive into how Discord scaled dbt to process petabytes of data, including custom solutions for multi-developer workflows, performance, and CI/CD guardrails.
 
 ## 🔄 Data Plattform Tools
 Open-source tools and frameworks for building and managing data platforms.
@@ -142,3 +144,7 @@ Testing tools, frameworks, and best practices for data and software engineering.
 Handy code snippets and example repositories for data engineering tasks.
 - [Building Medallion Architectures Book Repo](https://github.com/pietheinstrengholt/building-medallion-architectures-book) - The Repo to the book with useful code snippets.
 - [The Hitchhiker's Guide to dbt](https://github.com/jeremyyeo/the-hitchhikers-guide-to-dbt) - A comprehensive guide and resource collection for working with dbt (data build tool).
+
+## 💸 FinOps & Cost Management
+Open-source tools and resources for cloud financial operations, cost management, and FinOps best practices.
+- [FinOps Toolkit](https://github.com/microsoft/finops-toolkit) - Microsoft open-source toolkit for automating and extending FinOps capabilities in the Microsoft Cloud, including starter kits, automation scripts, and best practices.
