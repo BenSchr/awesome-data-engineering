@@ -121,6 +121,8 @@ Comprehensive handbooks, guides, and documentation frameworks for data and engin
 - [Diátaxis](https://diataxis.fr/) - Framework for organizing technical documentation by user needs, focusing on tutorials, how-to guides, reference, and explanation.
 - [GitLab Enterprise Data Handbook](https://handbook.gitlab.com/handbook/enterprise-data/) - GitLab's official handbook for enterprise data management and governance.
 - [Modern Data Engineering Playbook](https://www.thoughtworks.com/insights/e-books/modern-data-engineering-playbook) - Comprehensive guide on modern data engineering practices and principles.
+- [Kimball Dimensional Modeling Techniques](https://www.kimballgroup.com/wp-content/uploads/2013/08/2013.09-Kimball-Dimensional-Modeling-Techniques11.pdf) - 📊 Classic reference PDF from the Kimball Group summarizing dimensional modeling techniques for data warehousing and business intelligence projects.
+- [Python Patterns Guide](https://python-patterns.guide/) - 🐍 Comprehensive guide to Python programming patterns, including design patterns, idioms, and best practices for writing clean, maintainable Python code.
 
 ## 🔐 Data Privacy & Governance
 Resources and tools for data privacy, security, and synthetic data generation.

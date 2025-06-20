@@ -1,6 +1,8 @@
 # Changelog
 
 ## 2025-06
+- [Python Patterns Guide](https://python-patterns.guide/) - Comprehensive guide to Python programming patterns, including design patterns, idioms, and best practices for writing clean, maintainable Python code.
+- [Kimball Dimensional Modeling Techniques](https://www.kimballgroup.com/wp-content/uploads/2013/08/2013.09-Kimball-Dimensional-Modeling-Techniques11.pdf) - Classic reference PDF from the Kimball Group summarizing dimensional modeling techniques for data warehousing and business intelligence projects.
 - [DataHub Project](https://github.com/datahub-project/datahub): Metadata platform for the modern data stack.
 - [GitLab Enterprise Data Handbook](https://handbook.gitlab.com/handbook/enterprise-data/): GitLab's official handbook for enterprise data management and governance.
 - [DataContract CLI](https://github.com/datacontract/datacontract-cli): CLI tool for managing data contracts in data engineering workflows.
