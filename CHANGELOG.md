@@ -1,4 +1,7 @@
+
 # Changelog
+## 2025-07
+- [Awesome Copilot](https://github.com/github/awesome-copilot) - Curated list of resources, tools, and projects related to GitHub Copilot and its ecosystem. A great starting point for exploring Copilot-powered development.
 
 ## 2025-06
 - [Python Patterns Guide](https://python-patterns.guide/) - Comprehensive guide to Python programming patterns, including design patterns, idioms, and best practices for writing clean, maintainable Python code.

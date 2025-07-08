@@ -24,6 +24,7 @@ A highly curated list of useful resources, repositories, blogs, and books for da
 - [💡 Useful Code Snippets](#-useful-code-snippets)
 - [💸 FinOps & Cost Management](#-finops--cost-management)
 
+
 ## 🤖 Agentic Coding
 Agentic coding patterns, tools, and resources for building AI-driven and autonomous systems.
 
@@ -34,6 +35,8 @@ Open-source repositories and frameworks for agentic coding and AI applications.
 - [GitHub Copilot Vibe Coding Workshop](https://github.com/microsoft/github-copilot-vibe-coding-workshop/tree/main) - Self-paced workshop for building applications using GitHub Copilot Agent Mode, with multi-language samples and containerization.
 - [Graphiti](https://github.com/getzep/graphiti) - Framework for building real-time, temporally-aware knowledge graphs for AI agents, supporting dynamic data integration and hybrid search.
 - [MarkItDown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown, designed for LLM and text analysis pipelines.
+
+- [Awesome Copilot](https://github.com/github/awesome-copilot) - Curated list of resources, tools, and projects related to GitHub Copilot and its ecosystem. A great starting point for exploring Copilot-powered development. 🧑‍💻🤖
 
 ### 🧠 Prompt Engineering & Memory Bank
 Guides and tools for prompt engineering and memory management in LLM and agentic workflows.
