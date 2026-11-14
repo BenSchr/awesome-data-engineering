@@ -81,6 +81,7 @@ Open-source tools and frameworks for building and managing data platforms.
 - [Koheesio](https://github.com/Nike-Inc/koheesio) - Orchestration framework for building data pipelines.
 - [Lakehouse Engine](https://github.com/adidas/lakehouse-engine) - Lakehouse engine for scalable analytics by Adidas.
 - [VSCode dbt Power User](https://github.com/AltimateAI/vscode-dbt-power-user/blob/master/package.json) - VSCode extension for enhanced dbt development.
+- [NextJSON](https://nextjson.com/) - Free online nested JSON parser, formatter and toolbox for exploring and cleaning JSON data.
 
 ## 🧱 Databricks
 Resources, tools, and blogs for working with Databricks and the modern data stack.
